@@ -1,9 +1,9 @@
 #include<stdio.h>
  
 int main(void) {
-	int a;
+	long int a;
  
-	scanf("%d",&a);
+	scanf("%ld",&a);
  
 if(a=0)
 printf("ZERO");
